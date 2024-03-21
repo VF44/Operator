@@ -1,10 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        int summa1, bonus;
-        summa1 = 100;
+        int summa1 = 100;
         int summaPlus = 1100;
-        bonus = 1;
+        int bonus = 1;
         if (summaPlus > 1000) {
 
             bonus = summaPlus / 100;
