@@ -14,7 +14,7 @@ public class Main {
         } else {
             summa1 = summa1 + summaPlus;
         }
-        System.out.println("Итоговая сумма: " + summa1);
+        System.out.println("Итоговая сумма: " + summa1 + "\nБонус равен: " + bonus);
 
     }
 }
